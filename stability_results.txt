@@ -1,0 +1,22 @@
+== Insertion ==
+✅ Stable
+== Selection ==
+❌ Not stable
+== Bubble ==
+✅ Stable
+== Heap ==
+❌ Not stable
+== Merge ==
+✅ Stable
+== Quick ==
+❌ Not stable
+== Tim ==
+✅ Stable
+== Cocktail ==
+✅ Stable
+== Comb ==
+❌ Not stable
+== Tournament ==
+❌ Not stable
+== Intro ==
+✅ Stable

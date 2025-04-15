@@ -1,0 +1,8 @@
+== Ascending Data ==
+
+ InputSize           Insertion                Heap               Quick                 Tim            Cocktail                Comb          Tournament               Intro
+        1K         0.003ms/0KB         0.053ms/0KB         0.007ms/0KB         0.013ms/0KB         0.001ms/0KB         0.005ms/0KB         0.052ms/0KB         0.010ms/0KB
+       10K         0.007ms/0KB         0.576ms/0KB         0.113ms/0KB        0.235ms/16KB         0.006ms/0KB         0.076ms/0KB         0.594ms/0KB         0.085ms/0KB
+      100K         0.166ms/0KB         6.380ms/0KB         0.823ms/0KB       2.133ms/528KB         0.078ms/0KB         1.244ms/0KB      7.460ms/1056KB         1.137ms/0KB
+        1M         0.904ms/0KB         69.60ms/0KB         10.56ms/0KB      59.96ms/2916KB         0.640ms/0KB         15.05ms/0KB     76.29ms/11804KB         14.14ms/0KB
+

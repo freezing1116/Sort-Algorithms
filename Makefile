@@ -1,9 +1,7 @@
 CXX = clang++
-CXXFLAGS = -O2 -g -fsanitize=address
+CXXFLAGS = -O2 -std=c++17 -g
 
-TARGETS = bubble_sort insertion_sort merge_sort selection_sort heap_sort quick_sort \
-		  library_sort tim_sort cocktail_sort comb_sort tournament_sort intro_sort \
-		  testcase_generator
+TARGETS = tester test_logger stability_tester
 
 all: $(TARGETS)
 
